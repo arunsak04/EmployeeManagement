@@ -1,4 +1,4 @@
-# Employee Management System using JDBC, Eclipse IDE, DAO, and ORM
+# Employee Management System using JDBC, Eclipse IDE
 
 ## Overview
 
